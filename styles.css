@@ -1,0 +1,17 @@
+body, button, input{font-family: 'Montserrat', sans-serif;}
+
+input,  button {
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.psg {width: 500px;}
+
+.juv {width: 350px;}
+
+img {width: 400px;}
+
+.main-container {
+    margin: 30px 50px 50px 75px;
+}
